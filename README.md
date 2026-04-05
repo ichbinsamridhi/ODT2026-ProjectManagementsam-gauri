@@ -52,20 +52,20 @@ By the final review, this README should clearly show:
 # 1. Team Identity
 
 ## 1.1 Studio / Group Name
-`[Enter your group name]`
+`Bamboozle`
 
 ## 1.2 Team Members
 
 | Name | Primary Role | Secondary Role | Strengths Brought to the Project |
 |---|---|---|---|
-| `[ samridhi]` | `[Electronics / Coding / App / Fabrication / Mechanics]` | `[Role]` | `[Write here]` |
-| `[Gauri ]` | `[Electronics / Coding / App / Fabrication / Mechanics]` | `[Role]` | `[Write here]` |
+| `Samridhi` | `[Electronics / Coding / App / Fabrication / Mechanics]` | `[Role]` | `[Write here]` |
+| `Gauri` | `[Electronics / Coding / App / Fabrication / Mechanics]` | `[Role]` | `[Write here]` |
 
 ## 1.3 Project Title
-`[Enter the title of your project]`
+`crossfire`
 
 ## 1.4 One-Line Pitch
-`[Describe your project in one sentence]`
+`Crossfire is a two-player physical game where you claim territory on a shared light strip through repeated strikes — testing speed, strength, and the will to keep going.`
 
 ## 1.5 Expanded Project Idea
 In 1–2 paragraphs, explain:
@@ -75,7 +75,8 @@ In 1–2 paragraphs, explain:
 - what technologies are involved.
 
 **Response:**  
-`[Write here]`
+`Crossfire is a head-to-head endurance contest disguised as a territorial dispute. Each player faces their own strike pad and hammers it to push a shared LED strip toward their colour. The strip is always pulling back to neutral, so the moment a player slows down, their hard-won territory bleeds into the opponent's colour. Victory belongs to the player who sustains it until the time runs out.
+The experience sits somewhere between a rage room and a tug of war. When the timer ends, the result is read off the light itself. Crossfire is built around two shock sensors feeding strike data directly into an ESP32 microcontroller, which drives a WS2812B LED strip as the battlefield.`
 
 ---
 
@@ -101,7 +102,9 @@ Answer the following:
 - Why would someone want to try it again?
 
 **Response:**  
-`[Write here]`
+`Crossfire is a fast, physical, two-player game that is immediately understood and impossible to put down.
+Urgency first the moment the round starts, there is no time to think. Then desperation as the strip bleeds back toward center the instant you slow down. Then tunnel vision, the particular focus of doing one simple physical thing as hard and as fast as you can while knowing someone else is doing the same thing on the other side. The game is designed to make players forget everything except the pad in front of them.
+Because the result always feels unfinished. Losing never feels conclusive — you slowed down at the wrong moment and you know you had more in you. The simplicity of the mechanic means there is always a clear answer to why you lost and an obvious thing to do differently next time.`
 
 ## 2.3 Design Persona
 Complete the sentence below:
@@ -109,7 +112,7 @@ Complete the sentence below:
 > We are designing this project as if we are a small creative studio making a **[toy / game / playable object / interactive experience]** for **[children / teens / adults / classmates / exhibition visitors / mixed audience]**.
 
 **Response:**  
-`[Write here]`
+`We are designing this project as if we are a small creative studio making a arcade game for anyone who has ever wanted to hit something.`
 
 ---
 
@@ -120,15 +123,16 @@ List what inspired the project.
 
 | Source Type | Title / Link | What Inspired You |
 |---|---|---|
-| `[Toy / Board game / App / Video / Website / Object]` | `[Link or title]` | `[What did you learn or borrow?]` |
-| `[Toy / Board game / App / Video / Website / Object]` | `[Link or title]` | `[What did you learn or borrow?]` |
-| `[Toy / Board game / App / Video / Website / Object]` | `[Link or title]` | `[What did you learn or borrow?]` |
+| `Arcade game | High Striker / Hammer Strong machine | The core idea of measuring physical impact as a game input,effort made visible and immediate` |
+| `game | Tug of War  | The shared rope that both players pull in opposite directions simultaneously` |
+| `Object | Rage room experience | The satisfaction of sustained, uninhibited physical release as a designed experience
+game| battle ship  ` |
 
 ## 3.2 Original Twist
 What makes your project original?
 
 **Response:**  
-`[Write here]`
+`[Most physical games reward a single best action — the hardest throw, the fastest reaction, the perfect shot. Crossfire removes the concept of a winning move entirely. There is no moment of skill, only sustained effort against a strip that never stops working against you. The decay mechanic means the game is actively hostile to both players at all times, which creates a kind of shared suffering underneath the competition. The other original element is the absence of any score, screen, or number — the LED strip is simultaneously the interface, the scoreboard, and the spectacle, readable at a glance by anyone in the room without explanation.]`
 
 ---
 
