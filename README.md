@@ -280,10 +280,10 @@ Add a sketch with labels showing:
 
 | Dimension | Value |
 |---|---|
-| Length | `[Write here]` |
-| Width | `[Write here]` |
-| Height | `[Write here]` |
-| Estimated weight | `[Write here]` |
+| Length | `[16.5in]` |
+| Width | `[12in]` |
+| Height | `[3in]` |
+| Estimated weight | `[1kg]` |
 
 ---
 
@@ -298,7 +298,7 @@ Check all that apply.
 - [ ] Linkages
 - [ ] Hinges
 - [ ] Shafts
-- [ ] Springs
+- [+] Springs
 - [ ] Bearings
 - [ ] Wheels
 - [ ] Sliders
@@ -309,7 +309,7 @@ Check all that apply.
 Describe the mechanism and what it is meant to do.
 
 **Response:**  
-`[Write here]`
+`[a button.]`
 
 ## 8.3 Motion Planning
 If something moves, explain:
@@ -320,7 +320,7 @@ If something moves, explain:
 - what could go wrong.
 
 **Response:**  
-`[Write here]`
+`[the button moves up and down, according to the person clicking it]`
 
 ## 8.4 Simulation / CAD / Animation Before Making
 If your project includes mechanical motion, document the digital planning before fabrication.
