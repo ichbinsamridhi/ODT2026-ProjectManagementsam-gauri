@@ -774,23 +774,23 @@ What would you improve next?
 # 20. Final Submission Checklist
 
 Before submission, confirm that:
-- [ ] Team details are complete
-- [ ] Project description is complete
-- [ ] Inspiration sources are included
-- [ ] Player journey is written
-- [ ] Sketches are added
-- [ ] BOM is complete
-- [ ] Purchase list is complete
-- [ ] Budget summary is complete
-- [ ] Mechanical planning is documented if applicable
+- [+] Team details are complete
+- [+] Project description is complete
+- [+] Inspiration sources are included
+- [+] Player journey is written
+- [+] Sketches are added
+- [+] BOM is complete
+- [+] Purchase list is complete
+- [+] Budget summary is complete
+- [+] Mechanical planning is documented if applicable
 - [ ] App planning is documented if applicable
 - [ ] Code flowchart is added
-- [ ] Task breakdown is complete
-- [ ] Weekly logs are updated
-- [ ] Risk register is complete
-- [ ] Testing log is updated
-- [ ] Playtesting notes are included
-- [ ] Build photos are included
+- [+] Task breakdown is complete
+- [+] Weekly logs are updated
+- [+] Risk register is complete
+- [+] Testing log is updated
+- [+] Playtesting notes are included
+- [+] Build photos are included
 - [ ] Final reflection is written
 
 ---
@@ -824,8 +824,8 @@ project-repo/
 # 22. Instructor Review
 
 ## 22.1 Proposal Approval
-- [ ] Approved to proceed
-- [ ] Approved with changes
+- [+] Approved to proceed
+- [+] Approved with changes
 - [ ] Rework required before proceeding
 
 **Instructor comments:**  
