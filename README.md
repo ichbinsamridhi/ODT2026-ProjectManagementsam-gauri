@@ -710,7 +710,10 @@ Example:
 Describe the final version of your project.
 
 **Response:**  
-`[]`
+Crossfire is a fast, physical two-player game that worked really well and people genuinely enjoyed playing. It’s immediately easy to understand, so players could jump right in without needing much explanation. From the moment a round starts, there’s a strong sense of urgency—players react instantly, and as the strip moves back toward the center, it creates a feeling of pressure and competition. This often leads to intense focus, where players are fully engaged in the simple action in front of them.
+
+The simplicity of the game made it addictive. Players kept wanting to try again because losing never felt final—it always felt like they could do better next time. This made the experience fun, competitive, and replayable, with clear feedback on what went wrong and how to improve.
+
 
 ## 18.2 What Works Well
 - `[The lights cooperate nicely]`
@@ -750,7 +753,7 @@ What did you learn about:
 - integration?
 
 **Response:**  
-`[Write here]`
+We learned that trial and error is the best way to go about it. Trying and failing is better than not starting at all.
 
 ## 19.3 Design Reflection
 What did you learn about:
@@ -762,14 +765,12 @@ What did you learn about:
 - iteration?
 
 **Response:**  
-`[Write here]`
-
+People like to use force. An open ended game is more fun, letting people decide how they want to play instead of deciding for them. Aesthetics matter, players get more excited to play something that looks put together. A simple but fun game is preferred over a complex game that's difficult to understand.
 ## 19.4 If You Had One More Week
 What would you improve next?
 
 **Response:**  
-`[Write here]`
-
+We would add an app that has a leaderboard.
 ---
 
 # 20. Final Submission Checklist
