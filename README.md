@@ -738,7 +738,7 @@ What slowed you down?
 How well did you manage time, tasks, and responsibilities?
 
 **Response:**  
-`[Write here]`
+`Our team worked well together in terms of collaboration and idea sharing. We supported each other during problem-solving and were able to divide tasks efficiently when needed.Soldering and building the main structure took a significant amount of time. We faced some technical challenges during this phase, which slowed our overall progress.We managed tasks and responsibilities fairly well by distributing work among team members,and did well on the time mangagement 
 
 ## 19.2 Technical Reflection
 What did you learn about:
@@ -749,7 +749,7 @@ What did you learn about:
 - integration?
 
 **Response:**  
-`[Write here]`
+I learned the basics of electronics through soldering and understanding connections, got some hands-on experience with coding and how small changes affect output, explored simple mechanisms and how parts move together, improved my fabrication skills while building the structure, and understood how important integration is—making sure everything works together smoothly was the most challenging but also the most valuable part.
 
 ## 19.3 Design Reflection
 What did you learn about:
@@ -761,7 +761,7 @@ What did you learn about:
 - iteration?
 
 **Response:**  
-`[Write here]`
+`[]`
 
 ## 19.4 If You Had One More Week
 What would you improve next?
