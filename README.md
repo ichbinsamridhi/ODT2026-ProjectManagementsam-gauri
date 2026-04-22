@@ -710,23 +710,24 @@ Example:
 Describe the final version of your project.
 
 **Response:**  
-`[Write here]`
+`[]`
 
 ## 18.2 What Works Well
-- `[Point 1]`
-- `[Point 2]`
-- `[Point 3]`
+- `[The lights cooperate nicely]`
+- `[the board itself can take a lot of impact]`
+- `[aesthetics work well]`
+- `[buzzer works well]`
 
 ## 18.3 What Still Needs Improvement
-- `[Point 1]`
-- `[Point 2]`
+- `[The buttons could have more equal response]`
+- `[]`
 - `[Point 3]`
 
 ## 18.4 What Changed From the Original Plan
 How did the project change from the initial idea?
 
 **Response:**  
-`[Write here]`
+`[We started off with the idea of dials that compete over a vertical light strip. The final was a horizontal strip that was controlled through buttons, the action of hammering the buttons became one of the selling points of our project.]`
 
 ---
 
@@ -738,7 +739,7 @@ What slowed you down?
 How well did you manage time, tasks, and responsibilities?
 
 **Response:**  
-`[Write here]`
+`[Time management came easily to us. We were also good with responsibilities, connections, hardware, the model building and aesthetics. The things that mainly slowed us down were fatigue, lab timings and the lack of a good soldering iron.]`
 
 ## 19.2 Technical Reflection
 What did you learn about:
